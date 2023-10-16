@@ -1,8 +1,8 @@
-# This project is an attempt to simulate fluid physics
+# This project is on planet generation in unity
 
 The code is based on the video tutorial provided by Sebastian Lague on his channel
-The video can be found under the link:
-https://www.youtube.com/watch?v=rSKMYc1CQHE
+The video playlist can be found under the link:
+https://www.youtube.com/watch?v=QN39W020LqU&list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8&pp=iAQB
 
 
 
